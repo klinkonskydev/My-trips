@@ -1,6 +1,6 @@
 # :earth_africa: - My trips
 
-This is a project in william justem's course, created with the intention of learning NextJS with CMS.
+This is a project in william justem's course, created with the intention of learning NextJS with GraphCMS.
 
 ## Preview 
 
